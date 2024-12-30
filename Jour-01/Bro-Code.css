@@ -8,3 +8,13 @@ p{
     background-color: gray;
     color: white;
 }
+/* This is a CSS comment
+#p1{
+    color: tomato;
+}*/
+.odd{
+    color: blueviolet;
+}
+.even{
+    color: green;
+}
