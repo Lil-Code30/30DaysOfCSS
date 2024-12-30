@@ -110,3 +110,56 @@ p{
     background-color: white;
     color: rgb(0, 0, 0);
 }
+
+#position1{
+    border: 1px solid red;
+    height: 300px;
+    width: 300px;
+    background-color: rgb(47, 154, 255);
+    position: relative;
+    top: 50px;
+    left: 50px
+}
+#position2{
+    border: 1px solid red;
+    height: 150px;
+    width: 150px;
+    background-color: rgb(47, 255, 61);
+    position: relative;
+    top: 20px;
+    left: 150px
+}
+#position3{
+    border: 1px solid red;
+    height: 300px;
+    width: 300px;
+    background-color: rgb(255, 234, 47);
+    position: relative;
+    left: 250px;
+}
+#position4{
+    border: 1px solid red;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(92, 47, 255);
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+#position5{
+    height: 100px;
+    width: 100%;
+    background-color: saddlebrown;
+    border: 1px solid red;
+    position: fixed;
+    top: 0px;
+}
+#position6{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(2, 7, 109);
+    border: 1px solid red;
+    position: sticky;
+    bottom: 0px;
+    top: 0px;
+}
