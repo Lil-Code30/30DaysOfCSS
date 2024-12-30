@@ -3,10 +3,14 @@ body{
 }
 h1{
     color: rgb(255, 255, 255);
+    font-family: "Press Start 2P", "consolas", sans-serif;
 }
 p{
     background-color: gray;
     color: white;
+    font-family: "consolas", monospace;
+    font-style: italic;
+    font-weight: bold;
 }
 /* This is a CSS comment
 #p1{
@@ -17,4 +21,6 @@ p{
 }
 .even{
     color: green;
+    text-decoration: black wavy underline;
+    font-size: 25px;
 }
