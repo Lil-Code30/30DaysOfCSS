@@ -39,3 +39,18 @@ color: rgb(0%, 100%, 0%);
 /* Percentile RGB values*/
 color: rgb(100%, 0%, 0%);
 }
+/* Syntax
+rgba(<red>, <green>, <blue>, <alpha>);
+Value Description
+<red> an integer from 0 - 255 or percentage from 0 - 100%
+<green> an integer from 0 - 255 or percentage from 0 - 100%
+<blue> an integer from 0 - 255 or percentage from 0 - 100%
+<alpha> a number from 0 - 1, where 0.0 is fully transparent and 1.0 is fully opaque */
+.red {
+    /* Opaque red */
+    color: rgba(255, 0, 0, 1);
+}
+.red-50p {
+    /* Half-translucent red. */
+    color: rgba(255, 0, 0, .5);
+}
