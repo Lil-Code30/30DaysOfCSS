@@ -14,3 +14,12 @@
     margin: 5px;
     border: 1px solid currentColor;
 }
+.some-class {
+    /* This is equivalent to using the color keyword 'blue' */
+    color: #0000FF;
+}
+.also-blue {
+    /* If you want to specify each range value with a single number, you can!
+    This is equivalent to '#0000FF' (and 'blue') */
+    color: #00F;
+}
