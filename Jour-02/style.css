@@ -79,3 +79,14 @@ p{
 p{
     color: hsl(357, 81%, 56%); 
 }
+/* Similar to hsl() notation, but with an added alpha (opacity) value. */
+.p{
+    color:hsla(240, 100%, 50%, 0); /* transparent */
+}
+.p{
+    color: hsla(240, 100%, 50%, 0.5) /* half-translucent blue */;
+}
+.t{
+    color : hsla(240, 100%, 50%, 1); /* fully opaque blue */
+}
+
