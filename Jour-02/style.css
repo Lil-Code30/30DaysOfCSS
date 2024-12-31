@@ -1,0 +1,16 @@
+/* #current-color div{
+    border: 1px solid red;
+} */
+#parent-current-color{
+    height: 300px;
+    width: 300px;
+    padding: 10px;
+    color: red;
+    border: 3px solid currentColor;
+}
+.child-current-color{
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+    border: 1px solid currentColor;
+}
