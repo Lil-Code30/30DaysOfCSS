@@ -108,3 +108,37 @@ p{
     font-size: 1rem;
     padding: 0.5em;
  }
+ /* Font size with rem */
+ #rem-h1{
+    font-size: 3rem; /* 48px */
+ }
+ #rem-p{
+    font-size: 1.5rem; /* 24px */
+ }
+ #li01{
+    font-size: 0.625rem;
+ }
+ #li02{
+    font-size: 0.75rem;
+ }
+ #li03{
+    font-size: 0.875rem;
+ }
+ #li04{
+    font-size: 1rem;
+ }
+ #li05{
+    font-size: 1.125rem;
+ }
+ #li06{
+    font-size: 1.25rem;
+ }
+ #li07{
+    font-size: 1.5rem;
+ }
+ #li08{
+    font-size: 1.875rem;
+ }
+ #li09{
+    font-size: 2rem;
+ }
