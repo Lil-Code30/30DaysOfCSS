@@ -142,3 +142,14 @@ p{
  #li09{
     font-size: 2rem;
  }
+/* 
+  Equation:  ( Parent Container`s width ) * ( Percentage(%) ) = Output
+ */
+ .parent{
+    background-color: blue;
+    width: 100px;
+}
+.child{
+    background-color: green;
+    width: 50%; /* 50% of parent container */
+}
