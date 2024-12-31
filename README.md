@@ -5,7 +5,7 @@ Pendant 30 jours, j'explore et approfondir les concepts de CSS en réalisant des
 ## 📅 Calendrier du Défi 
 | Jour | Sujet/Projet | Short YouTube | Tweet |  
 |------|--------------|---------------|-------| 
-| 1    | Bases des Sélecteurs et Propriétés | [Voir sur YouTube](#) | [Voir le Tweet](#) |  
+| 1    | Introduction à CSS | [Voir sur YouTube](https://youtube.com/shorts/2BkzDQHKWs8?si=UNBGpGvyuxBME2xV) | [Voir le Tweet](https://x.com/dereal_ismael/status/1873794803605119133) |  
 | ...  | ...          | ...           | ...   |   
 ---
 ## 💡 Pourquoi le CSS ?  
