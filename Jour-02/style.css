@@ -89,4 +89,22 @@ p{
 .t{
     color : hsla(240, 100%, 50%, 1); /* fully opaque blue */
 }
+ /* Creating scalable elements using rems and ems */
+ html{
+    font-size: 16px;
+ }
 
+ input[type="button"]{
+    font-size: 1rem;
+    padding: 0.5em 2em;
+ }
+
+ input[type="range"]{
+    font-size: 1rem;
+    width: 10em;
+ }
+
+ input[type="text"]{
+    font-size: 1rem;
+    padding: 0.5em;
+ }
