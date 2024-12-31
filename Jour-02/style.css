@@ -54,3 +54,28 @@ Value Description
     /* Half-translucent red. */
     color: rgba(255, 0, 0, .5);
 }
+
+/* HSL stands for hue ("which color"), saturation ("how much color") and lightness ("how much white").
+Hue is represented as an angle from 0° to 360° (without units), while saturation and lightness are represented as
+percentages. */
+p {
+    color: hsl(240, 100%, 50%); /* Blue */
+}
+p{
+    color: hsl(104, 81%, 56%); /* Green */
+}
+/* A saturation of 0% always produces a grayscale color; changing the hue has no effect.
+A lightness of 0% always produces black, and 100% always produces white; changing the hue or saturation
+has no effect. */
+p{
+    color: hsl(0, 0%, 50%); /* Gray */
+}
+p{
+    color: hsl(0, 0%, 0%); /* Black */
+}
+p{
+    color: hsl(0, 0%, 100%); /* White */
+}
+p{
+    color: hsl(357, 81%, 56%); 
+}
