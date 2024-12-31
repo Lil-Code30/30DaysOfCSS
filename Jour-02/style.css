@@ -151,5 +151,5 @@ p{
 }
 .child{
     background-color: green;
-    width: 50%; /* 50% of parent container */
+    width: 50%; /* 50% of parent container */ 
 }
