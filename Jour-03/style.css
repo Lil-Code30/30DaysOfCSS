@@ -145,3 +145,9 @@ li:nth-last-child(3) {
 .warning.important {
     background-color: black ;
 }
+
+/* Select element using its ID without the high specificity of the ID selector */
+/* 
+#element { ... }  High specificity will override many selectors 
+[id="element"] { ... } Low specificity, can be overridden easily
+*/
