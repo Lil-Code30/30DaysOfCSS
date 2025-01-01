@@ -151,3 +151,13 @@ li:nth-last-child(3) {
 #element { ... }  High specificity will override many selectors 
 [id="element"] { ... } Low specificity, can be overridden easily
 */
+
+/* The :last-of-type selector */
+/* The :last-of-type selects the element that is the last child, of a particular type, of its parent */
+
+p:last-of-type {
+    background: #C5CAE9;
+}
+h2:last-of-type {
+    background: #CDDC39;
+}
