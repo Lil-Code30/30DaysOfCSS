@@ -161,3 +161,20 @@ p:last-of-type {
 h2:last-of-type {
     background: #CDDC39;
 }
+
+/* A. The :not pseudo-class example & B. :focuswithin
+CSS pseudo-class */
+/* input:not([disabled]):not(.example) */
+input:not([disabled], .example){
+    background-color: #ccc;
+}
+
+#focused-input{
+    height: 80px;
+}
+input[type="text"]{
+    margin:30px;
+}
+#focused-input:focus-within {
+    background-color: #1565C0;
+}
