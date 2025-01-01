@@ -131,3 +131,17 @@ li:last-child {
 li:nth-last-child(3) {
     text-decoration: dashed underline;
 }
+
+/* Class Name Selectors  */
+.important {
+    color: orange;
+    font: 1.5em sans-serif;
+}
+.warning {
+    background-color: blue;
+    padding: 3px;
+    margin: 2px;
+}
+.warning.important {
+    background-color: black ;
+}
