@@ -1,0 +1,18 @@
+/* Selects elements with the given attribute. */
+div[data-color] {
+    color: rgb(0, 255, 68);
+} 
+/* Selects elements with the given attribute and value. */
+div[data-color="red"]{
+    color: red;
+}
+/* Selects elements with the given attribute and value where the given attribute contains the given value anywhere (as
+a substring). */
+[class*="foo"] {
+    color: red;
+}
+/* Selects elements with a given attribute and value where the attribute's value can be represented as Value, VALUE,
+vAlUe or any other case-insensitive possibility. */
+[lang="EN" i] {
+    color: red;
+}
