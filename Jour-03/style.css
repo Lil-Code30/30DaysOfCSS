@@ -1,3 +1,5 @@
+/* attribute selectors  */
+
 /* Selects elements with the given attribute. */
 div[data-color] {
     color: rgb(0, 255, 68);
@@ -15,4 +17,31 @@ a substring). */
 vAlUe or any other case-insensitive possibility. */
 [lang="EN" i] {
     color: red;
+}
+
+/* combinators */
+/* Descendant Combinator: selector selector */
+/* A descendant combinator, represented by at least one space character (), selects elements that are a descendant of
+the defined element. This combinator selects all descendants of the element (from child elements on down). */
+div p {
+    color:rgb(51, 0, 255);
+}
+
+/* Child Combinator: selector > selector */
+/* The child (>) combinator is used to select elements that are children, or direct descendants, of the specified
+element. */
+div > p {
+    color:red;
+}
+
+/* Adjacent Sibling Combinator: selector + selector */
+/* The adjacent sibling (+) combinator selects a sibling element that immediate follows a specified element. */
+p + p {
+    color:red;
+}
+
+/* General Sibling Combinator: selector ~ selector */
+/* The general sibling (~) combinator selects all siblings that follow the specified element. */
+p ~ p {
+    color:red;
 }
