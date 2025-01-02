@@ -147,3 +147,39 @@ content of the element and its border. Negative values are not allowed. */
 #radius-div06{
     border-radius: 60px 120px 10px 30px;
 }
+/* border-style */
+/* The border-style property sets the style of an element's border. This property can have from one to four values
+(for every side of the element one value.)
+Examples:
+border-style: dotted;
+border-style: dotted solid double dashed; */
+.border-style-div{
+    margin: 5px;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(182, 166, 166);
+}
+#style-div01{
+    border-style: solid;
+}
+#style-div02{
+    border-style: dotted;
+}
+#style-div03{
+    border-style: dashed;
+}
+#style-div04{
+    border-style: double;
+}
+#style-div05{
+    border-style: groove;
+}
+#style-div06{
+    border-style: ridge;
+}
+#style-div07{
+    border-style: inset;
+}
+#style-div08{
+    border-style: outset;
+}
