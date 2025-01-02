@@ -178,3 +178,9 @@ input[type="text"]{
 #focused-input:focus-within {
     background-color: #1565C0;
 }
+
+/* The :only-child pseudo-class selector example */
+/* The :only-child CSS pseudo-class represents any element which is the only child of its parent. */
+.only-child:only-child {
+    text-decoration: wavy underline red;
+}
