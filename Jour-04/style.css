@@ -19,5 +19,26 @@ border-box: Width and height includes the content, the padding as well as the bo
 #textarea2{
     width: 100%;
     padding: 3px;
-    box-sizing: border-box; /* default value */
+    box-sizing: border-box; 
+}
+
+/* Margins */
+div{
+    border: 1px solid red;
+}
+.outer-top{
+    margin: 10px;
+    background-color: lightcoral;
+}
+.inner-top{
+    margin: 15px;
+    background-color: lightgreen;
+}
+.outer-bottom{
+    margin: 20px;
+    background-color: lightblue;
+}
+.inner-bottom{
+    margin: 25px;
+    background-color: lightpink;
 }
