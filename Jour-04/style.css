@@ -53,6 +53,7 @@ margin-bottom */
 #margins{
     background-color: limegreen;
     border: 1px solid black;
+    margin-bottom: 2px;
 }
 #margins div{
     height: 40px;
@@ -94,4 +95,32 @@ margin-bottom */
 #over{
     margin-left: -20px;
     background-color: rgba(233, 174, 24, 0.517);
+}
+/* Padding */
+/* The padding property sets the padding space on all sides of an element. The padding area is the space between the
+content of the element and its border. Negative values are not allowed. */
+#padding{
+    background-color: lightcoral;
+    border: 1px solid black;
+}
+#padding div{
+    margin-top: 5px;
+    border: 1px solid black;
+    width: 100px;
+}
+#div01{
+    background-color: rgb(236, 173, 27);
+    padding: 25px 50px 75px 100px; /* top right bottom left; */
+}
+#div02{
+    background-color: rgb(224, 46, 46);
+    padding: 25px 50px 55px; /* top left/right bottom */
+}
+#div03{
+    background-color: rgb(21, 229, 55);
+    padding: 25px 150px; /* top/bottom left/right */ 
+}
+#div04{
+    background-color: rgb(224, 36, 221);
+    padding: 25px; /* top/right/bottom/left */
 }
