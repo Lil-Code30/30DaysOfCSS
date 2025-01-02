@@ -84,3 +84,14 @@ margin-bottom */
     margin left will be calculated from the margin right value (=15px) 
 }
  */
+ /* Negative margins */
+.negative-margins{
+    display: inline;
+}
+#base{
+    background-color: rgba(139, 69, 19, 0.616);
+}
+#over{
+    margin-left: -20px;
+    background-color: rgba(233, 174, 24, 0.517);
+}
