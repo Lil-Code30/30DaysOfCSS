@@ -124,3 +124,26 @@ content of the element and its border. Negative values are not allowed. */
     background-color: rgb(224, 36, 221);
     padding: 25px; /* top/right/bottom/left */
 }
+/* Borders */
+/* border-radius The border-radius property allows you to change the shape of the basic box model.*/
+.border-radius-div{
+    margin: 5px;
+    height: 100px;
+    width: 200px;
+    background-color: rgb(188, 188, 188);
+}
+#radius-div02{
+    border-radius: 30px;
+}
+#radius-div03{
+    border-radius: 50%;
+}
+#radius-div04{
+    border-radius: 30px 60px;
+}
+#radius-div05{
+    border-radius: 10px 60px 30px;
+}
+#radius-div06{
+    border-radius: 60px 120px 10px 30px;
+}
