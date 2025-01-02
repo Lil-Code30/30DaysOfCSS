@@ -74,3 +74,13 @@ margin-bottom */
     margin: 0 10px 50px 100px;
     background-color: rgb(0, 13, 255);
 }
+
+/* p{
+    margin:10px 15px;  10px margin-top & bottom And 15px margin-right & left
+    
+    margin:10px 15px 10px 15px;
+
+    margin:10px 15px 10px;
+    margin left will be calculated from the margin right value (=15px) 
+}
+ */
