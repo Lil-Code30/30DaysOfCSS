@@ -196,3 +196,33 @@ border: 1px solid #000;
 These shorthands are also available for every side of an element: border-top, border-left, border-right and
 border-bottom. So you can do:
 border-top: 2px double #aaaaaa;*/
+
+/* Creating a multi-colored border using borderimage */
+.bordered{
+    border: 5px solid transparent;
+    height: 250px;
+    border-image: linear-gradient(to right, red 20%, green 20%, green 40%, blue 40%, blue 60%, maroon
+    60%, maroon 80%, chocolate 80%); /* gradient with required colors */
+    border-image-slice: 1;
+}
+
+/* Which border(s) have a single color is dependant on the gradient definition. If the gradient is a to right gradient,
+the left border would be the start color of the gradient and right border would be the end color. If it was a to
+bottom gradient the top border would be the gradient's start color and bottom border would be end color. */
+.bordered02{
+    border: 5px solid transparent;
+    height: 250px;
+    border-image: linear-gradient(to bottom, red 20%, green 20%, green 40%, blue 40%, blue 60%, maroon
+    60%, maroon 80%, chocolate 80%); /* gradient with required colors */
+    border-image-slice: 1;
+}
+
+/* If the border is required only on specific sides of the element then the border-width property can be used just like
+with any other normal border. For example, adding the below code would produce a border only on the top of the
+element. */
+.bordered03{
+    border-top: 5px solid transparent;
+    height: 250px;
+    border-image: linear-gradient(to right, red, green, blue, maroon, chocolate); /* gradient with required colors */
+    border-image-slice: 1;
+}
