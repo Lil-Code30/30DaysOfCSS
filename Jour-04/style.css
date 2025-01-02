@@ -183,3 +183,16 @@ border-style: dotted solid double dashed; */
 #style-div08{
     border-style: outset;
 }
+/* border (shorthands)
+In most cases you want to define several border properties (border-width, border-style and border-color) for all
+sides of an element.
+Instead of writing:
+border-width: 1px;
+border-style: solid;
+border-color: #000;
+You can simply write:
+border: 1px solid #000; 
+
+These shorthands are also available for every side of an element: border-top, border-left, border-right and
+border-bottom. So you can do:
+border-top: 2px double #aaaaaa;*/
