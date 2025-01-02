@@ -23,7 +23,7 @@ border-box: Width and height includes the content, the padding as well as the bo
 }
 
 /* Margins */
-div{
+.margin-collapse{
     border: 1px solid red;
 }
 .outer-top{
@@ -41,4 +41,36 @@ div{
 .inner-bottom{
     margin: 25px;
     background-color: lightpink;
+}
+
+/* Apply Margin on a Given Side */
+/* CSS allows you to specify a given side to apply margin to. The four properties provided for this purpose are:
+margin-left
+margin-right
+margin-top
+margin-bottom */
+/* margin: <top> <right> <bottom> <left>; */
+#margins{
+    background-color: limegreen;
+    border: 1px solid black;
+}
+#margins div{
+    height: 40px;
+    width: 40px;
+}
+#myDiv1{
+    margin-top: 30px;
+    background-color: red;
+}
+#myDiv2{
+    margin-left: 550px;
+    background-color: rgb(255, 208, 0);
+}
+#myDiv3{
+    margin: 30px 0 0 30px;
+    background-color: rgb(242, 0, 255);
+}
+#myDiv4{
+    margin: 0 10px 50px 100px;
+    background-color: rgb(0, 13, 255);
 }

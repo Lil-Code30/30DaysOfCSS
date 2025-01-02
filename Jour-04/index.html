@@ -10,18 +10,27 @@
     <h1 id="title">Jour 4 : Modèle de boîte (Box Model)</h1>
     <img src="img/box-model-devtools.png" alt="Box Model DevTools">
 
+    <h3>Box-sizing</h3>
     <textarea name="" id="textarea1">box-sizing: content-box</textarea>
     <textarea name="" id="textarea2">box-sizing: border-box</textarea>
 
-    <div class="outer-top">
-        <div class="inner-top">
+    <h3>Margin Collapse</h3>
+    <div class="margin-collapse outer-top">
+        <div class="margin-collapse inner-top">
             some content
         </div>
     </div>
-    <div class="outer-bottom">
-        <div class="inner-bottom">
+    <div class="margin-collapse outer-bottom">
+        <div class="margin-collapse inner-bottom">
             some more content
         </div>
+    </div>
+    <h3>Margins</h3>
+    <div id="margins">
+        <div id="myDiv1"></div>
+        <div id="myDiv2"></div>
+        <div id="myDiv3"></div>
+        <div id="myDiv4"></div>
     </div>
 </body>
 </html>
