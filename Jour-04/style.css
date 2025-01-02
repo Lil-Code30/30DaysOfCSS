@@ -226,3 +226,38 @@ element. */
     border-image: linear-gradient(to right, red, green, blue, maroon, chocolate); /* gradient with required colors */
     border-image-slice: 1;
 }
+
+/* Outlines */
+/* Outline is a line that goes around the element, outside of the border. In contrast to border, outlines do not take any
+space in the box model. So adding an outline to an element does not affect the position of the element or other
+elements. */
+#outlines p{
+    border: 1px solid black;
+    outline-color:blue;
+    line-height:30px;
+    margin-bottom: 25px;
+}
+.p1{
+    outline-style: dotted;
+}
+.p2{
+    outline-style: dashed;
+}
+.p3{
+    outline-style: solid;
+}
+.p4{
+    outline-style: double;
+}
+.p5{
+    outline-style: groove;
+}
+.p6{
+    outline-style: ridge;
+}
+.p7{
+    outline-style: inset;
+}
+.p8{
+    outline-style: outset;
+}
