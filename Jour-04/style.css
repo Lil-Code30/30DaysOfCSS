@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#title{
+    padding: 5px 0 5px 0;
+}
+
+/* box-sizing */
+/* content-box: The common box model - width and height only includes the content, not the padding or
+border
+padding-box: Width and height includes the content and the padding, but not the border
+border-box: Width and height includes the content, the padding as well as the border */
+#textarea1 {
+    width: 100%;
+    padding: 3px;
+    box-sizing: content-box; /* default value */
+}
+#textarea2{
+    width: 100%;
+    padding: 3px;
+    box-sizing: border-box; /* default value */
+}
