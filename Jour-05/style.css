@@ -35,3 +35,8 @@ img.five{
     width: 50%;
     height: 50%;
 }
+div.one{
+    max-width: 400px;
+    min-width: 100px;
+    background-color: aquamarine;
+}
