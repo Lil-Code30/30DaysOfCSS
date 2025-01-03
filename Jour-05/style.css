@@ -59,3 +59,11 @@ div.two{
 /* Note: Remember that the height and width properties do not include
 padding, borders, or margins! They set the height/width of the area
 inside the padding, border, and margin of the element! */
+
+/* Overflow */
+/* Overflow Value Details
+visible Shows all overflowing content outside the element
+scroll Hides the overflowing content and adds a scroll bar
+hidden Hides the overflowing content, both scroll bars disappear and the page becomes fixed
+auto Same as scroll if content overflows, but doesn't add scroll bar if content fits
+inherit Inherit's the parent element's value for this property */
