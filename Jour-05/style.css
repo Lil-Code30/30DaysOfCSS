@@ -15,6 +15,17 @@ th {
 tr:nth-child(even) {
     background-color: #f9f9f9;
 }
+/* The height and width properties are used to set the height and width of an element.
+The height and width properties do not include padding, borders, or margins. It sets the height/width of the area inside the padding, 
+border, and margin of the element. */
+/* CSS height and width Values
+The height and width properties may have the following values:
+
+auto - This is default. The browser calculates the height and width
+length - Defines the height/width in px, cm, etc.
+% - Defines the height/width in percent of the containing block
+initial - Sets the height/width to its default value
+inherit - The height/width will be inherited from its parent value */
 img.one{
     width: auto;
     height: auto;
@@ -40,3 +51,11 @@ div.one{
     min-width: 100px;
     background-color: aquamarine;
 }
+div.two{
+    max-height: 600px;
+    min-height: 400px;
+    background-color: chartreuse;
+}
+/* Note: Remember that the height and width properties do not include
+padding, borders, or margins! They set the height/width of the area
+inside the padding, border, and margin of the element! */
