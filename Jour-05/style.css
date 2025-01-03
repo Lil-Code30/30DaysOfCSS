@@ -15,3 +15,15 @@ th {
 tr:nth-child(even) {
     background-color: #f9f9f9;
 }
+img.one{
+    width: auto;
+    height: auto;
+}
+img.two{
+    width: 200px;
+    height: 200px;
+}
+img.three{
+    width: 300px;
+    height: 200px;
+}
