@@ -84,3 +84,22 @@ inherit : Inherits the parent element's value for this property */
 #overflow-div2{
     overflow-wrap: break-word;
 }
+
+/* overflow-x and overflow-y */
+/* These two properties work in a similar fashion as the overflow property and accept the same values. The
+overflow-x parameter works only on the x or left-to-right axis. The overflow-y works on the y or top-to-bottom
+axis. */
+
+.overflow{
+    width: 200px;
+    height: 200px;
+    border: 1px solid #bbb;
+    float: left;
+}
+#div-x {
+    overflow-x: hidden;
+}
+#div-y {
+    overflow-y: hidden;
+    margin-left: 100px;
+}
