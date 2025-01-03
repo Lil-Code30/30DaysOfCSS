@@ -21,6 +21,7 @@ CSS est essentiel pour le design web. Ce défi est l’occasion pour moi de maî
 ## 🛠️ Outils & Ressources   
 - CodePen pour des prototypes rapides  
 - Visual Studio Code pour les projets  
-- Ressources : [MDN Web Docs](https://developer.mozilla.org/fr/), [CSS Tricks](https://css-tricks.com/)  
+- Ressources : [MDN Web Docs](https://developer.mozilla.org/fr/), [CSS Tricks](https://css-tricks.com/)
+- PDF : [CSSForProfessionals](https://www.goalkicker.com/CSSBook/CSSNotesForProfessionals.pdf)
 
 ---
