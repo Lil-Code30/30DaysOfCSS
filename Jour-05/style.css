@@ -117,3 +117,19 @@ axis. */
     overflow: visible;
     border: 5px solid #000000;
 }
+/* Block Formatting Context Created with Overflow 
+Using the overflow property with a value different to visible will create a new block formatting context. This is
+useful for aligning a block element next to a floated element.*/
+.container{
+    margin-top: 50px;
+}
+.astro-img{
+    width: 300px;
+    height: 200px;
+    float: left;
+    margin-right: 10px;
+
+}
+.astro-text{
+    overflow: hidden;
+}
