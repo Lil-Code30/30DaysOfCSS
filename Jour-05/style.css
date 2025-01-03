@@ -67,3 +67,20 @@ scroll Hides the overflowing content and adds a scroll bar
 hidden Hides the overflowing content, both scroll bars disappear and the page becomes fixed
 auto Same as scroll if content overflows, but doesn't add scroll bar if content fits
 inherit Inherit's the parent element's value for this property */
+
+/* overflow-wrap – Value Details
+normal : Lets a word overflow if it is longer than the line
+break-word : Will split a word into multiple lines, if necessary
+inherit : Inherits the parent element's value for this property */
+.overflow-div{
+    width: 100px;
+    outline: 1px dashed #bbb;
+    float: left;
+}
+#overflow-div1{
+    overflow-wrap: normal;
+    margin-right: 200px;
+}
+#overflow-div2{
+    overflow-wrap: break-word;
+}
