@@ -103,3 +103,10 @@ axis. */
     overflow-y: hidden;
     margin-left: 100px;
 }
+/* overflow: scroll */
+#overflow-scroll{
+    width:100px;
+    height:100px;
+    overflow:scroll;
+    border: 1px solid #bbb;
+}
