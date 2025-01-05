@@ -80,7 +80,12 @@ main{
     border: 2px solid rgb(255, 255, 255);
     box-shadow: 5px 5px 0px rgb(255, 255, 255);
 }
-
+.buttons .resume-btn:hover{
+    color: rgb(0, 0, 0);
+    background-color: rgb(10, 82, 251);
+    border: 2px solid rgb(10, 82, 251);
+    box-shadow: 5px 5px 0px rgb(2, 44, 142);
+}
 .buttons .hire-btn{
     color: black;
     margin-left: 15px;
