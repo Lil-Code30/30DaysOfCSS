@@ -20,9 +20,18 @@ main{
 }
 .socials{
     float: right;
-    margin: 10px 10px 0 0;
+    margin: 10px 20px 0 0;
 }
 .socials img{
-    width: 35px;
-    height: 35px;
+    width: 30px;
+    height: 30px;
+}
+.profile{
+    margin-top: 10px;
+    text-align: center;
+}
+.profile .profile-img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
 }
