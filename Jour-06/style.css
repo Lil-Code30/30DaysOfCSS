@@ -41,3 +41,20 @@ main{
     padding: 3px;
     border: 5px solid rgb(255, 0, 0);
 }
+.infos{
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+}
+.infos{
+    font-size: 1.2rem;
+    margin-top: 5px
+}
+.infos h2{
+    font-size: 2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.infos p{
+    margin-top: 3px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
