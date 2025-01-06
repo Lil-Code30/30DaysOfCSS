@@ -12,6 +12,7 @@ Pendant 30 jours, j'explore et approfondir les concepts de CSS en réalisant des
 | 5  | Propriétés de dimensionnement  |[Voir sur YouTube](https://youtube.com/shorts/BOX6f2xmUD0?si=832f0Srv8dxp2zmN)| [Voir le Tweet](https://x.com/dereal_ismael/status/1875196388293922832)    |
 | 6  | Mini projet (carte de profil stylisée)  |[Voir sur YouTube](https://youtube.com/shorts/KWIXmb_1leY?si=zwACWdDI6-Adkz0x)| [Voir le Tweet](https://x.com/dereal_ismael/status/1875732968272207976)    |
 | 7  |  Mini projet (Une galerie d'image simple)  |[Voir sur YouTube](https://youtube.com/shorts/xzNz7iGIg-I?si=_s894b8m7pa7FQKi)| [Voir le Tweet](https://x.com/dereal_ismael/status/1876068573019558214)    |
+| 8  |  Positionnement CSS  |[Voir sur YouTube](https://youtube.com/shorts/AJMEaMui8VA?si=PQyP5udMVShbpjNv)| [Voir le Tweet](https://x.com/dereal_ismael/status/1876296378978337056)    |
 ---
 ## 💡 Pourquoi le CSS ?  
 CSS est essentiel pour le design web. Ce défi est l’occasion pour moi de maîtriser ses capacités, des bases aux concepts avancés comme les animations, flexbox, grid, et bien plus encore.  
