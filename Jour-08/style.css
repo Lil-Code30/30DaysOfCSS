@@ -68,3 +68,45 @@ is reached, then it acts as position: fixed.
     height: 10em;
     opacity: 0.9;
 }
+
+/* Absolute Position */
+/* When absolute positioning is used the box of the desired element is taken out of the Normal Flow and it no longer
+affects the position of the other elements on the page. 
+Offset properties: 
+1. top
+2. left
+3. right
+4. bottom
+*/
+.absolute{
+    position: relative;
+    border: 1px dashed red;
+    height: 500px;
+}
+.abspos1{
+    position: absolute;
+    top: 0px;
+    left: 200px;
+    background-color: saddlebrown;
+    width: 250px;
+    height: 200px;
+
+}
+.abspos2{
+    position: absolute;
+    top: 200px;
+    right: 0px;
+    background-color:blueviolet;
+    width: 250px;
+    height: 200px;
+
+}
+.abspos3{
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    background-color:dodgerblue;
+    width: 350px;
+    height: 100px;
+
+}
