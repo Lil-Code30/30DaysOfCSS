@@ -110,3 +110,17 @@ Offset properties:
     height: 100px;
 
 }
+
+/* Fixed Position
+Defining position as fixed we can remove an element from the document flow and set its position relatively to the
+browser window. One obvious use is when we want something to be visible when we scroll to the bottom of a long
+page.
+ */
+ nav{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background-color: darkslateblue;
+    width: 100%;
+    height: 50px;
+ }
