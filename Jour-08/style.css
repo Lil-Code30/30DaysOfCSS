@@ -10,3 +10,61 @@ LEFT position
 - sticky: Experimental feature. It behaves like position: static within its parent until a given offset threshold
 is reached, then it acts as position: fixed.
 - unset:  Combination of initial and inherit. More info here. */
+
+/* .z-index{
+    position: relative;
+}
+.z-index-div{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+}
+.z-index #div1{
+    z-index: 1;
+    left: 0px;
+    top: 0px;
+    background-color: royalblue;
+}
+.z-index #div2{
+    z-index: 3;
+    left: 100px;
+    top: 100px;
+    background-color:chocolate;
+}
+.z-index #div3{
+    z-index: 2;
+    left: 50px;
+    top: 150px;
+    background-color:darkgreen;
+} */
+
+.wrapper{
+    position: relative;
+    border: 1px solid red;
+}
+.dashed-box{
+    position: relative;
+    z-index: 1;
+    border: dashed;
+    height: 8em;
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
+.gold-box{
+    position: absolute;
+    z-index: 3;
+    background-color: gold;
+    width: 80%;
+    left: 90px;
+    top: 3em;
+}
+.green-box{
+    position: absolute;
+    z-index: 2;
+    background-color: limegreen;
+    width: 20%;
+    left: 65%;
+    top: -25px;
+    height: 10em;
+    opacity: 0.9;
+}
