@@ -125,7 +125,7 @@ page.
     height: 50px;
  }
 
- /* Relative Position ´
+ /* Relative Position 
  Relative positioning moves the element in relation to where it would have been in normal flow .Offset properties:
 1. top
 2. left
@@ -133,3 +133,11 @@ page.
 4. bottom
 are used to indicate how far to move the element from where it would have been in normal flow.
  */
+ .relative{
+    border: 1px dashed red;
+ }
+ .relative-img{
+    position: relative;
+    top: 50px;
+    left: 25px;
+ }
