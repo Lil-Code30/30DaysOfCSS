@@ -1,0 +1,22 @@
+/* Flexible Box Layout (Flexbox)
+The Flexible Box module, or just 'flexbox' for short, is a box model designed for user interfaces, and it allows users
+to align and distribute space among items in a container such that elements behave predictably when the page
+layout must accommodate different, unknown screen sizes. A flex container expands items to fill available space
+and shrinks them to prevent overflow. */
+
+/* Dynamic Vertical and Horizontal Centering (alignitems,
+justify-content) */
+.aligner{
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+    background-color: aliceblue;
+    padding: 10px 0;
+}
+.aligner-item{
+    background-color: #ff0101;
+    width: 30%;
+    height: 200px;
+}
