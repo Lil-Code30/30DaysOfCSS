@@ -38,3 +38,10 @@ justify-content) */
     flex-direction: row;
     justify-content: center;
 }
+
+/* Example: justify-content: center on a vertical flexbox */
+.container02{
+    height: 200px;
+    flex-direction: column;
+    justify-content: center;
+}
