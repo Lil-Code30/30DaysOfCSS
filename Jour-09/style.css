@@ -45,3 +45,8 @@ justify-content) */
     flex-direction: column;
     justify-content: center;
 }
+/* Example: align-content: center on a horizontal flexbox */
+.container03{
+    flex-direction: row;
+    align-items: center;
+}
