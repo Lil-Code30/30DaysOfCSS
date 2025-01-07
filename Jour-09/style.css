@@ -50,3 +50,10 @@ justify-content) */
     flex-direction: row;
     align-items: center;
 }
+
+/* Example: align-content: center on a vertical flexbox */
+.container04{
+    height: 200px;
+    flex-direction: column;
+    align-items: center;
+}
