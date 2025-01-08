@@ -135,5 +135,47 @@
             </td>
         </tr>
     </table>
+    <p>align-items: stretch | flex-start | flex-end | center | baseline | first baseline | last baseline | start | end | self-start | self-end + ... safe | unsafe;</p>
+    <table>
+        <tr>
+            <td>
+                <div class="flex-container align-items_flex-start">
+                    <div class="flex-item">1</div>
+                    <div class="flex-item">2</div>
+                    <div class="flex-item">3</div>       
+                </div>
+            </td>
+            <td>
+                <div class="flex-container align-items_flex-end">
+                    <div class="flex-item">1</div>
+                    <div class="flex-item">2</div>
+                    <div class="flex-item">3</div>     
+                </div>
+            </td>
+            <td>
+                <div class="flex-container align-items_center">
+                    <div class="flex-item">1</div>
+                    <div class="flex-item">2</div>
+                    <div class="flex-item">3</div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="flex-container align-items_stretch">
+                    <div class="flex-item">1</div>
+                    <div class="flex-item">2</div>
+                    <div class="flex-item">3</div>       
+                </div>
+            </td>
+            <td>
+                <div class="flex-container align-items_baseline">
+                    <div class="flex-item">1</div>
+                    <div class="flex-item" style="height: 100px;">2</div>
+                    <div class="flex-item" style="height: 65px;">3</div>     
+                </div>
+            </td>
+        </tr>
+    </table>
 </body>
 </html>

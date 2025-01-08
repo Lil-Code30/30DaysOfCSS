@@ -57,3 +57,21 @@ This is a shorthand for the flex-direction and flex-wrap properties, which toget
 .justify-content_space-evenly{
     justify-content: space-evenly;
 }
+.align-items_flex-start{
+    align-items: flex-start;
+}
+.align-items_flex-end{
+    align-items: flex-end;
+}
+.align-items_center{
+    align-items: center;
+}
+.align-items_stretch{
+    align-items: stretch;
+}
+.align-items_baseline{
+    align-items: baseline;
+}
+.align-items_baseline div{
+    padding-top: 15px;
+}
