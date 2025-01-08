@@ -98,3 +98,10 @@ This is a shorthand for the flex-direction and flex-wrap properties, which toget
 .align-content_space-around{
     align-content: space-around;
 }
+/* gap, row-gap, column-gap
+The gap property explicitly controls the space between flex items. It applies that spacing only between items not on the outer edges.
+gap: 10px;
+gap: 10px 20px; //row-gap column gap 
+row-gap: 10px;
+column-gap: 20px;
+*/
