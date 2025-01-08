@@ -137,3 +137,19 @@ Properties for the Children
 .order-8{
     order: 8;
 }
+/* flex-grow */
+.flex-grow{
+    width: 350px;
+}
+.flex-grow .flex-item{
+    margin: 5px 10px;
+}
+.flex-grow-1{
+    flex-grow: 1;
+}
+.flex-grow-2{
+    flex-grow: 2;
+}
+.flex-grow-3{
+    flex-grow: 3;
+}
