@@ -186,5 +186,11 @@ The default is 0 1 auto, but if you set it with a single number value, like flex
 that changes the flex-basis to 0%, so it’s like setting flex-grow: 5; flex-shrink: 1; flex-basis: 0%;.
 
 */
-
+/* align-self */
+.flex-basis-4{
+    align-self: center;
+}
+.flex-basis-3{
+    align-self: flex-end;
+}
   
