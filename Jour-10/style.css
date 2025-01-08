@@ -1,12 +1,16 @@
 *{
     box-sizing: border-box;
 }
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
 .flex-container{
     display: flex;
     background-color: rgb(85, 7, 254);
     width: 220px;
-    height: 100px;
+    height: 110px;
     border: 1px solid black;
+    padding: 3px;
 }
 .flex-item{
     background-color: rgb(254, 126, 7);
@@ -24,4 +28,11 @@
 }
 .flex-direction_column-reverse{
     flex-direction: column-reverse;
+}
+
+.flex-wrap_wrap{
+    flex-wrap: wrap;
+}
+.flex-wrap_wrap-reverse{
+    flex-wrap: wrap-reverse;
 }
