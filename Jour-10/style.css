@@ -75,3 +75,26 @@ This is a shorthand for the flex-direction and flex-wrap properties, which toget
 .align-items_baseline div{
     padding-top: 15px;
 }
+.align-content{
+    height: 200px;
+    flex-wrap: wrap;
+}
+.align-content_flex-start{
+    align-content: flex-start;
+
+}
+.align-content_flex-end{
+    align-content: flex-end;
+}
+.align-content_center{
+    align-content: center;
+}
+.align-content_stretch{
+    align-content: stretch;
+}
+.align-content_space-between{
+    align-content: space-between;
+}
+.align-content_space-around{
+    align-content: space-around;
+}

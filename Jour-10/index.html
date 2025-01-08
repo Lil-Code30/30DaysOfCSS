@@ -177,5 +177,85 @@
             </td>
         </tr>
     </table>
+    <p>align-content: flex-start | flex-end | center | space-between | space-around | space-evenly | stretch | start | end | baseline | first baseline | last baseline + ... safe | unsafe;</p>
+    <table>
+        <caption>Note: This property only takes effect on multi-line flexible containers, where flex-wrap is set to either wrap or wrap-reverse). A single-line flexible container (i.e. where flex-wrap is set to its default value, no-wrap) will not reflect align-content.</caption>
+        <tr>
+            <td>
+                <div class="flex-container align-content align-content_flex-start">
+                    <div class="flex-item">1</div>
+                    <div class="flex-item">2</div>
+                    <div class="flex-item">3</div>
+                    <div class="flex-item">4</div>
+                    <div class="flex-item">5</div>
+                    <div class="flex-item">6</div>
+                    <div class="flex-item">7</div>
+                    <div class="flex-item">8</div>
+                </div>
+            </td>
+            <td>
+                <div class="flex-container align-content align-content_flex-end">
+                    <div class="flex-item">1</div>
+                    <div class="flex-item">2</div>
+                    <div class="flex-item">3</div>
+                    <div class="flex-item">4</div>
+                    <div class="flex-item">5</div>
+                    <div class="flex-item">6</div>
+                    <div class="flex-item">7</div>
+                    <div class="flex-item">8</div>
+                </div>
+            </td>
+            <td>
+                <div class="flex-container align-content align-content_center">
+                    <div class="flex-item">1</div>
+                    <div class="flex-item">2</div>
+                    <div class="flex-item">3</div>
+                    <div class="flex-item">4</div>
+                    <div class="flex-item">5</div>
+                    <div class="flex-item">6</div>
+                    <div class="flex-item">7</div>
+                    <div class="flex-item">8</div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="flex-container align-content align-content_stretch">
+                    <div class="flex-item">1</div>
+                    <div class="flex-item">2</div>
+                    <div class="flex-item">3</div>
+                    <div class="flex-item">4</div>
+                    <div class="flex-item">5</div>
+                    <div class="flex-item">6</div>
+                    <div class="flex-item">7</div>
+                    <div class="flex-item">8</div>
+                </div>
+            </td>
+            <td>
+                <div class="flex-container align-content align-content_space-between">
+                    <div class="flex-item">1</div>
+                    <div class="flex-item">2</div>
+                    <div class="flex-item">3</div>
+                    <div class="flex-item">4</div>
+                    <div class="flex-item">5</div>
+                    <div class="flex-item">6</div>
+                    <div class="flex-item">7</div>
+                    <div class="flex-item">8</div>
+                </div>
+            </td>
+            <td>
+                <div class="flex-container align-content align-content_space-around">
+                    <div class="flex-item">1</div>
+                    <div class="flex-item">2</div>
+                    <div class="flex-item">3</div>
+                    <div class="flex-item">4</div>
+                    <div class="flex-item">5</div>
+                    <div class="flex-item">6</div>
+                    <div class="flex-item">7</div>
+                    <div class="flex-item">8</div>
+                </div>
+            </td>
+        </tr>
+    </table>
 </body>
 </html>
