@@ -105,3 +105,35 @@ gap: 10px 20px; //row-gap column gap
 row-gap: 10px;
 column-gap: 20px;
 */
+/* 
+Properties for the Children
+(flex items)
+*/
+/* order */
+.order{
+    flex-wrap: wrap;
+}
+.order-1{
+    order: 1;
+}
+.order-2{
+    order: 2;
+}
+.order-3{
+    order: 3;
+}
+.order-4{
+    order: 4;
+}
+.order-5{
+    order: 5;
+}
+.order-6{
+    order: 6;
+}
+.order-7{
+    order: 7;
+}
+.order-8{
+    order: 8;
+}
