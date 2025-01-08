@@ -187,10 +187,10 @@ that changes the flex-basis to 0%, so it’s like setting flex-grow: 5; flex-shr
 
 */
 /* align-self */
-.flex-basis-4{
+.align-self_flex-start{
     align-self: center;
 }
-.flex-basis-3{
+.align-self_flex-end{
     align-self: flex-end;
 }
   
