@@ -25,3 +25,11 @@
 .wrapper04{
     grid-template-columns: repeat(5, 1fr 2fr);
 }
+/*
+Implicit and explicit grids
+When creating our example grid we specifically defined our column tracks with the grid-template-columns property, but the grid also created rows on its own. These rows are part of the implicit grid. Whereas the explicit grid consists of any rows and columns defined with grid-template-columns or grid-template-rows.
+You can also define a set size for tracks created in the implicit grid with the grid-auto-rows and grid-auto-columns properties. */
+.wrapper05{
+    grid-template-columns: 2fr repeat(2, 1fr);
+    grid-auto-rows: 100px;
+}
