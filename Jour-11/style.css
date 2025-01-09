@@ -60,3 +60,39 @@ You can also define a set size for tracks created in the implicit grid with the 
     grid-row-end: 5; */
     grid-row: 3 / 5; /* shorthand */
 }
+/* Grid areas */
+/* Explanation
+grid-template-areas creates a visual map of the layout:
+
+"header header": The header spans across two columns.
+"sidebar content": The sidebar occupies the first column, and the content occupies the second column.
+"footer footer": The footer spans across two columns.
+Each grid item is placed into its respective area using grid-area: name. */
+
+
+.container{
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    grid-template-rows: 100px 500px 100px;
+    grid-template-areas: 
+    "header header"
+    "sidebar content"
+    "footer footer";
+    gap: 10px;
+}
+.header{
+    grid-area: header;
+    background-color: royalblue;
+}
+.sidebar{
+    grid-area: sidebar;
+    background-color: rgb(255, 128, 0);
+}
+.content{
+    grid-area: content;
+    background-color: chocolate;
+}
+.footer{
+    grid-area: footer;
+    background-color: chartreuse;
+}
