@@ -14,6 +14,7 @@ Pendant 30 jours, j'explore et approfondir les concepts de CSS en réalisant des
 | 7  |  Mini projet (Une galerie d'image simple)  |[Voir sur YouTube](https://youtube.com/shorts/xzNz7iGIg-I?si=_s894b8m7pa7FQKi)| [Voir le Tweet](https://x.com/dereal_ismael/status/1876068573019558214)    |
 | 8  |  Positionnement CSS  |[Voir sur YouTube](https://youtube.com/shorts/AJMEaMui8VA?si=PQyP5udMVShbpjNv)| [Voir le Tweet](https://x.com/dereal_ismael/status/1876296378978337056)    |
 | 9  |  Flexbox (Introduction)  |[Voir sur YouTube](https://youtube.com/shorts/9eUyqpBfRyw?si=FQpkiZ-E-zUyZ-ZX)| [Voir le Tweet](https://x.com/dereal_ismael/status/1876682323908825499)    |
+| 10  |  Flexbox (Avancé)  |[Voir sur YouTube](https://youtube.com/shorts/EKIW3BUQpOM?si=lkZWLDa7vF7IuR72)| [Voir le Tweet](https://x.com/dereal_ismael/status/1877031964437262537)    |
 ---
 
 ## 💡 Pourquoi le CSS ?  
@@ -23,8 +24,7 @@ CSS est essentiel pour le design web. Ce défi est l’occasion pour moi de maî
 - **YouTube** : [Abonnez-vous à ma chaîne](https://www.youtube.com/@licode30)  
 - **Twitter** : [Suivez-moi sur Twitter](https://x.com/dereal_ismael)  
 
-## 🛠️ Outils & Ressources   
-- CodePen pour des prototypes rapides  
+## 🛠️ Outils & Ressources    
 - Visual Studio Code pour les projets  
 - Ressources : [MDN Web Docs](https://developer.mozilla.org/fr/), [CSS Tricks](https://css-tricks.com/)
 - PDF : [CSSForProfessionals](https://www.goalkicker.com/CSSBook/CSSNotesForProfessionals.pdf)
