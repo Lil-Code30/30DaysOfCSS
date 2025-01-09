@@ -1,0 +1,10 @@
+/* display: grid | inline-grid; */
+.wrapper{
+    display: grid;
+    background-color: rgb(155, 155, 152);
+    border: 1px solid black;
+}
+.item{
+    background-color: rgb(255, 128, 0);
+    border: 1px solid rgb(255, 0, 0);
+}
