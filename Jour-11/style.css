@@ -4,7 +4,7 @@
     background-color: rgb(155, 155, 152);
     border: 1px solid black;
 }
-.item{
+.item, .box{
     background-color: rgb(255, 128, 0);
     border: 1px solid rgb(255, 0, 0);
     border-radius: 5px;
@@ -38,4 +38,21 @@ You can also define a set size for tracks created in the implicit grid with the 
 .wrapper06{
     grid-template-columns: repeat(3, 1fr);
     grid-auto-rows: minmax(100px, auto);
+}
+/* Positioning items against lines */
+.wrapper07{
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 100px;
+}
+.box1{
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+.box2{
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 3;
+    grid-row-end: 5;
 }
