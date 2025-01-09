@@ -33,3 +33,9 @@ You can also define a set size for tracks created in the implicit grid with the 
     grid-template-columns: 2fr repeat(2, 1fr);
     grid-auto-rows: 100px;
 }
+
+/* Track sizing and minmax */
+.wrapper06{
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: minmax(100px, auto);
+}
