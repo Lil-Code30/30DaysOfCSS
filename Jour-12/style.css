@@ -110,3 +110,24 @@ footer{
 .justify-self_end{
     justify-self: end;
 }
+
+.parent{
+    background-color: rgb(214, 214, 208);
+    width: 200px;
+    height:200px;
+    display: grid;
+    place-content: center; /* place-content: start | center | end */
+    /* 
+    The place-content property is a shorthand.
+    .parent {
+        justify-content: center;
+        align-content: center;
+    }
+    */
+}
+.child{
+    background-color: rgb(255, 0, 0);
+    width: 100px;
+    height: 100px;
+    border-radius: 5px;
+}
