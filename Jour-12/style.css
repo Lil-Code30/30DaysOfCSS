@@ -43,7 +43,7 @@ footer{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 /* We can control the distribution of the columns using the justify-content property:We can control the distribution of the columns using the justify-content property: */
-.justify-content{
+.justify-content, .justify-items{
     display: grid;
     grid-template-columns: 50px 50px;
     gap: 5px;
@@ -77,4 +77,20 @@ footer{
 }
 .justify-content_space-evenly{
     justify-content: space-evenly;
+}
+
+.justify-items{
+    grid-template-columns: 90px 90px;
+}
+.justify-items_stretch{
+    justify-items: stretch;
+}
+.justify-items_start{
+    justify-items: start;
+}
+.justify-items_center{
+    justify-items: center;
+}
+.justify-items_end{
+    justify-items: end;
 }
