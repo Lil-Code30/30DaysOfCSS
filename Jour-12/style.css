@@ -1,0 +1,44 @@
+.grid-container{
+    display: grid;
+    gap: 5px;
+    grid-template-columns: 2fr 5fr;
+    grid-template-rows: 55px 1fr 55px;
+    grid-template-areas: 
+    "sidebar header"
+    "sidebar content"
+    "sidebar footer";
+}
+header{
+    grid-area: header;
+    background-color: rgb(0, 0, 0);
+    color: azure;
+}
+header a{
+    color: azure;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.table-content{
+    grid-area: sidebar;
+    background-color: saddlebrown;
+}
+.table-content ol{
+    list-style-type: none;
+}
+.table-content li{
+    margin-top: 2px;
+}
+.table-content a{
+    color: azure;
+    text-decoration: none;
+}
+.main-content{
+    grid-area: content;
+    background-color: rgb(214, 214, 208);
+}
+footer{
+    grid-area: footer;
+    background-color: rgb(0, 0, 0);
+    color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
