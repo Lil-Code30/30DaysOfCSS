@@ -15,6 +15,8 @@ Pendant 30 jours, j'explore et approfondir les concepts de CSS en réalisant des
 | 8  |  Positionnement CSS  |[Voir sur YouTube](https://youtube.com/shorts/AJMEaMui8VA?si=PQyP5udMVShbpjNv)| [Voir le Tweet](https://x.com/dereal_ismael/status/1876296378978337056)    |
 | 9  |  Flexbox (Introduction)  |[Voir sur YouTube](https://youtube.com/shorts/9eUyqpBfRyw?si=FQpkiZ-E-zUyZ-ZX)| [Voir le Tweet](https://x.com/dereal_ismael/status/1876682323908825499)    |
 | 10  |  Flexbox (Avancé)  |[Voir sur YouTube](https://youtube.com/shorts/EKIW3BUQpOM?si=lkZWLDa7vF7IuR72)| [Voir le Tweet](https://x.com/dereal_ismael/status/1877031964437262537)    |
+| 11  |   Grille CSS (Introduction)  |[Voir sur YouTube](https://youtube.com/shorts/S7jQZ7Qz6SM?si=9jcVd5D2HkTOtHlO)| [Voir le Tweet](https://x.com/dereal_ismael/status/1877394611842290039)    |
+| 12  |  Grille CSS (Avancé)  |[Voir sur YouTube](https://youtube.com/shorts/FosT17rgPdg?si=stJNrj4GpuGvXVJA)| [Voir le Tweet](https://x.com/dereal_ismael/status/1877781692242383236)    |
 ---
 
 ## 💡 Pourquoi le CSS ?  
