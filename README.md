@@ -17,7 +17,7 @@ Pendant 30 jours, j'explore et approfondir les concepts de CSS en réalisant des
 | 10  |  Flexbox (Avancé)  |[Voir sur YouTube](https://youtube.com/shorts/EKIW3BUQpOM?si=lkZWLDa7vF7IuR72)| [Voir le Tweet](https://x.com/dereal_ismael/status/1877031964437262537)    |
 | 11  |   Grille CSS (Introduction)  |[Voir sur YouTube](https://youtube.com/shorts/S7jQZ7Qz6SM?si=9jcVd5D2HkTOtHlO)| [Voir le Tweet](https://x.com/dereal_ismael/status/1877394611842290039)    |
 | 12  |  Grille CSS (Avancé)  |[Voir sur YouTube](https://youtube.com/shorts/FosT17rgPdg?si=stJNrj4GpuGvXVJA)| [Voir le Tweet](https://x.com/dereal_ismael/status/1877781692242383236)    |
-| 13  |  Jour 13/30 : Mise en page avec Flexbox [Pratique]  |[Voir sur YouTube](https://youtube.com/shorts/pB7StFYDjWk?si=B90sbLbzt5zfxaBC)| [Voir le Tweet]()    |
+| 13  |  Jour 13/30 : Mise en page avec Flexbox [Pratique]  |[Voir sur YouTube](https://youtube.com/shorts/pB7StFYDjWk?si=B90sbLbzt5zfxaBC)| ...   |
 ---
 
 ## 💡 Pourquoi le CSS ?  
