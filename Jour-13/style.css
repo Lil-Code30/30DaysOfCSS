@@ -58,3 +58,14 @@ nav ul li a:hover{
 main{
     flex: 1;
 }
+
+/* footer styling */
+footer{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.bottom-footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
