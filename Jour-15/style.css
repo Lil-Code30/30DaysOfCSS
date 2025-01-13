@@ -72,3 +72,16 @@ Valid values are: uppercase,capitalize, lowercase, initial, inherit, and none
 .example3 {
     text-transform: lowercase;
 }
+/* Letter Spacing */
+.letter-spacing1{
+    letter-spacing: normal;
+}
+.letter-spacing2{
+    letter-spacing: 0.2rem;
+}
+.letter-spacing3{
+    letter-spacing: 1px;
+}
+.letter-spacing4{
+    letter-spacing: -1px;
+}
