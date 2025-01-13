@@ -101,20 +101,47 @@ aside ul li img{
 }
 .picture-box{
     grid-area: picture;
-    background-color: darkblue;
+    
 }
-.picture-box img{}
+.picture-box img{
+    height: 100%;
+    border-radius: 15px;
+}
 .favorite-box{
     grid-area: favorite;
-    background-color: darkgoldenrod;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    padding: 1rem;
 }
 .birthday-box{
     grid-area: birthday;
-    background-color: darkgreen;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    padding: 1rem;
 }
 .announce-box{
     grid-area: announce;
-    background-color: darkkhaki;
+    background-color: white;
+    border-radius: 15px;
+    padding: 1rem;
+}
+.announce-box .news{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.announce-box .news .news-box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.announce-box .news img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.announce-box .news .news-text{
+    margin-left: 1rem;
 }
 .nav-box{
     grid-area: nav;
@@ -122,9 +149,13 @@ aside ul li img{
 }
 .poll-calender{
     grid-area: poll-calender;
-    background-color: darkolivegreen;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    padding: 1rem;
 }
 .events{
     grid-area: events;
-    background-color: darkorange;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    padding: 1rem;
 }
