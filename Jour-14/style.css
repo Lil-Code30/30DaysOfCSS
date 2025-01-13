@@ -1,0 +1,66 @@
+*{
+    box-sizing: border-box;
+}
+main{
+    display: grid;
+    column-gap: 1.2rem;
+    row-gap: 0.5rem;
+    height: 100vh;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    grid-template-areas: 
+    "logo header header header"
+    "aside wheather picture favorite"
+    "aside quote picture birthday"
+    "aside announce announce birthday"
+    "aside nav poll-calender events"
+    ;
+}
+.logo-box{
+    grid-area: logo;
+    background-color: blueviolet;
+}
+header{
+    grid-area: header;
+    background-color: brown;
+}
+aside{
+    grid-area: aside;
+    background-color: cadetblue;
+}
+.wheather-box{
+    grid-area: wheather;
+    background-color: chocolate;
+}
+.quote-box{
+    grid-area: quote;
+    background-color: coral;
+}
+.picture-box{
+    grid-area: picture;
+    background-color: darkblue;
+}
+.favorite-box{
+    grid-area: favorite;
+    background-color: darkgoldenrod;
+}
+.birthday-box{
+    grid-area: birthday;
+    background-color: darkgreen;
+}
+.announce-box{
+    grid-area: announce;
+    background-color: darkkhaki;
+}
+.nav-box{
+    grid-area: nav;
+    background-color: darkmagenta;
+}
+.poll-calender{
+    grid-area: poll-calender;
+    background-color: darkolivegreen;
+}
+.events{
+    grid-area: events;
+    background-color: darkorange;
+}
