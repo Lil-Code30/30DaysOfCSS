@@ -55,5 +55,20 @@ text-shadow: horizontal-offset vertical-offset blur color;
 }
 .Shadow3{
     /* Multiple shadows */
-    text-shadow: 1px 5px 3px #FF0000, 2px 3px 5px #0000FF;
+    text-shadow: 1px 5px 3px #FF0000, 2px 3px 5px #ffea00;
+}
+/* 
+Text Transform
+----------------
+🌐The text-transform property is used to change the case of text.
+Valid values are: uppercase,capitalize, lowercase, initial, inherit, and none
+*/
+.example1 {
+    text-transform: uppercase;
+}
+.example2 {
+    text-transform: capitalize;
+}
+.example3 {
+    text-transform: lowercase;
 }
