@@ -97,3 +97,22 @@ Text Indent
     text-indent: 150px;
 }
 
+/* Text Decoration */
+.text-deco1{
+    text-decoration: none;
+}
+.text-deco2{
+    text-decoration: overline;
+}
+.text-deco3{
+    text-decoration: line-through;
+}
+.text-deco4{
+    text-decoration: underline;
+}
+.text-deco5{
+    text-decoration: underline dotted red;
+}
+.text-deco6{
+    text-decoration: underline wavy rgb(0, 98, 255);
+}
