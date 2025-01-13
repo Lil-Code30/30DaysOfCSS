@@ -130,3 +130,14 @@ Text Indent
 .word-spacing4{
     word-spacing: -0.4ch;
 }
+
+/* Font Variant
+----------------
+🌐The font-variant property is used to change the case of text.
+small-caps
+Sets every letter to uppercase, but makes the lowercase letters(from original text) smaller in size than the letters
+that originally uppercase.
+*/
+.smallcaps{
+    font-variant: small-caps;
+}
