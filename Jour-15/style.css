@@ -85,3 +85,15 @@ Valid values are: uppercase,capitalize, lowercase, initial, inherit, and none
 .letter-spacing4{
     letter-spacing: -1px;
 }
+/* 
+Text Indent
+----------------
+🌐The text-indent property is used to change the indentation of text.
+*/
+.text-indent1{
+    text-indent: 50px;
+}
+.text-indent2{
+    text-indent: 150px;
+}
+
