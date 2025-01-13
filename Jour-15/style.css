@@ -36,3 +36,9 @@ Syntax: writing-mode: horizontal-tb | vertical-lr | vertical-rl | sideways-lr
 .vertical-ltr{
     writing-mode: vertical-lr;
 }
+.font-stack1{
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+}
+.font-stack2{
+    font-family: Consolas, 'Courier New', monospace;
+}
