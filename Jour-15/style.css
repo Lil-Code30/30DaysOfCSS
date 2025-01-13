@@ -25,3 +25,14 @@ Syntax: direction: ltr | rtl | initial | inherit;
 .rtl{
     direction: rtl; /* Text read from right-to-left */
 }
+/* 
+The writing-mode property changes the alignment of text so it can be read from top-to-bottom or from left-to-right,
+depending on the language.
+Syntax: writing-mode: horizontal-tb | vertical-lr | vertical-rl | sideways-lr
+*/
+.vertical-rtl{
+    writing-mode: vertical-rl;
+}
+.vertical-ltr{
+    writing-mode: vertical-lr;
+}
