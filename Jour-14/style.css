@@ -2,12 +2,14 @@
     box-sizing: border-box;
 }
 main{
+    background-color: aliceblue;
+    border-radius: 10px;
     display: grid;
     column-gap: 1.2rem;
     row-gap: 0.5rem;
     height: 100vh;
-    grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(5, 1fr);
+    grid-template-columns:250px repeat(3, 1fr);
+    grid-template-rows: 80px repeat(4, 1fr);
     grid-template-areas: 
     "logo header header header"
     "aside wheather picture favorite"
@@ -18,15 +20,56 @@ main{
 }
 .logo-box{
     grid-area: logo;
-    background-color: blueviolet;
+    background-color: rgb(133, 17, 242);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top-left-radius: 10px;
+}
+.logo-box span{
+    color: goldenrod;
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 header{
     grid-area: header;
-    background-color: brown;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header input{
+    width: 75%;
+    height: 30px;
+    outline: none;
+    border: none;
+    margin-left: 0.5rem;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+header .user-box{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.social-links{
+    padding-right: 1.5rem;
+}
+header .user-box .notif{
+    padding-left: 1rem;
+    border-left: 2px solid black;
+}
+header .user-box .notif img{
+    padding-right: 0.5rem;
+}
+header .user-box .user{
+    padding-left: 1rem;
 }
 aside{
     grid-area: aside;
-    background-color: cadetblue;
+    background-color: rgb(57, 0, 110);
+
 }
 .wheather-box{
     grid-area: wheather;
