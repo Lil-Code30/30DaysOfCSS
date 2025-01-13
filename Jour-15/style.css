@@ -12,3 +12,16 @@ q{
 #element-three{
     font-size: 50px;
 }
+
+/* 
+Text Direction
+----------------
+🌐The direction property is used to change the horizontal text direction of an element.
+Syntax: direction: ltr | rtl | initial | inherit;
+*/
+.ltr{
+    direction: ltr; /* Default, text read read from left-to-right */
+}
+.rtl{
+    direction: rtl; /* Text read from right-to-left */
+}
