@@ -3,3 +3,12 @@ q{
     /* The quotes property is used to customize the opening and closing quotation marks of the <q> tag. */
     quotes: "😊" "😊";
 }
+#element-one{
+    font-size: 30px;
+}
+#element-two{
+    font-size: 10px;
+}
+#element-three{
+    font-size: 50px;
+}
