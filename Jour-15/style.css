@@ -42,3 +42,18 @@ Syntax: writing-mode: horizontal-tb | vertical-lr | vertical-rl | sideways-lr
 .font-stack2{
     font-family: Consolas, 'Courier New', monospace;
 }
+/* Text shadow 
+text-shadow: horizontal-offset vertical-offset blur color;
+*/
+.Shadow1{
+    /* Shadow without blur radius */
+    text-shadow: 5px 2px  rgb(255, 123, 0);
+}
+.Shadow2{
+    /* Shadow with blur radius */
+    text-shadow: 2px 2px 5px  rgb(255, 0, 0);
+}
+.Shadow3{
+    /* Multiple shadows */
+    text-shadow: 1px 5px 3px #FF0000, 2px 3px 5px #0000FF;
+}
