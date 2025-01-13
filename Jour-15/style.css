@@ -116,3 +116,17 @@ Text Indent
 .text-deco6{
     text-decoration: underline wavy rgb(0, 98, 255);
 }
+
+/* Word Spacing */
+.word-spacing1{
+    word-spacing: normal;
+}
+.word-spacing2{
+    word-spacing: 1rem;
+}
+.word-spacing3{
+    word-spacing: 4px;
+}
+.word-spacing4{
+    word-spacing: -0.4ch;
+}
