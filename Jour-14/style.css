@@ -69,7 +69,27 @@ header .user-box .user{
 aside{
     grid-area: aside;
     background-color: rgb(57, 0, 110);
+    color: white;
+    padding-left: 1rem;
 
+}
+aside h3{
+    color: gray;
+    font-size: 1.5rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+aside ul{
+    list-style-type: none;
+}
+aside ul li{
+    border-bottom: 1px solid goldenrod;
+    margin-top: 8px;
+    display: flex;
+    align-items: center;
+    line-height: 5rem;
+}
+aside ul li img{
+    padding-right: 3px;
 }
 .wheather-box{
     grid-area: wheather;
@@ -83,6 +103,7 @@ aside{
     grid-area: picture;
     background-color: darkblue;
 }
+.picture-box img{}
 .favorite-box{
     grid-area: favorite;
     background-color: darkgoldenrod;
