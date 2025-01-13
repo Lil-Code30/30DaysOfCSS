@@ -1,0 +1,5 @@
+/* font: [font-style] [font-variant] [font-weight] [font-size/line-height] [font-family]; */
+q{
+    /* The quotes property is used to customize the opening and closing quotation marks of the <q> tag. */
+    quotes: "😊" "😊";
+}
