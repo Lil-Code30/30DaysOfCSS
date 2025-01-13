@@ -18,6 +18,7 @@ Pendant 30 jours, j'explore et approfondir les concepts de CSS en réalisant des
 | 11  |  Grille CSS (Introduction)  |[Voir sur YouTube](https://youtube.com/shorts/S7jQZ7Qz6SM?si=9jcVd5D2HkTOtHlO)| [Voir le Tweet](https://x.com/dereal_ismael/status/1877394611842290039)    |
 | 12  |  Grille CSS (Avancé)  |[Voir sur YouTube](https://youtube.com/shorts/FosT17rgPdg?si=stJNrj4GpuGvXVJA)| [Voir le Tweet](https://x.com/dereal_ismael/status/1877781692242383236)    |
 | 13  | Mini projet (Mise en page avec Flexbox) |[Voir sur YouTube](https://youtube.com/shorts/pB7StFYDjWk?si=B90sbLbzt5zfxaBC)| [Voir le Tweet](https://x.com/dereal_ismael/status/1878279213309911122)   |
+| 14  | Mini projet (Mise en page avec les Grilles CSS ) |[Voir sur YouTube](https://youtube.com/shorts/MNwtM6NI2mE?si=J2GXTBwJNB3twBZ1)| [Voir le Tweet](https://x.com/dereal_ismael/status/1878645072402768076)   |
 ---
 
 ## 💡 Pourquoi le CSS ?  
