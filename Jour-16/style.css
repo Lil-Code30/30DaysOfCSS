@@ -69,3 +69,29 @@ closest-corner, farthest-corner
 .repeating-radial-gradient{
     background: repeating-radial-gradient(red, red 10%, white 10%, white 20%);
 }
+
+/* 
+🌐Background Image
+The background-image property is used to specify a background image to be applied to all matched elements. By
+default, this image is tiled to cover the entire element, excluding margin.
+
+url('/path/to/image.jpg') Specify background image's path(s) or an image resource specified with data URI
+schema (apostrophes can be omitted), separate multiples by comma
+ */
+.background-image{
+    width: 100%;
+    height: 400px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    color: white;
+}
+.bg01{
+    background-image: url("bg/image01.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg02{
+    background-image: url("bg/image02.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
