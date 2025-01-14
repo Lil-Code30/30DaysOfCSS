@@ -1,5 +1,5 @@
 table div{
-    width: 100px;
+    width: 200px;
     height: 100px;
     display: flex;
     justify-content: center;
@@ -23,4 +23,49 @@ table div{
 }
 .bg-hsla{
     background-color: hsla(170, 100%, 50%, 0.5);
+}
+
+/* 
+Background Gradients
+There are two types of gradient functions, linear and radial. Each type has a non-repeating variant and a repeating
+variant:
+ - linear-gradient() - creates a linear gradient
+ - repeating-linear-gradient()
+ - radial-gradient() - creates a radial gradient
+ - repeating-radial-gradient()
+
+🌐linear-gradient()
+background: linear-gradient( <direction>?, <color-stop-1>, <color-stop-2>, ...);
+*/
+.linear-gradient{
+    background: linear-gradient(to left, red, blue);
+}
+.diagonal-linear-gradient{
+    background: linear-gradient(to left top, red, yellow);
+}
+.linear-gradient-rainbow{
+    background: linear-gradient(to left bottom, red, orange, yellow, green, blue, indigo, violet);
+}
+/* 
+🌐radial-gradient()
+background: radial-gradient( <shape>?, <color-stop-1>, <color-stop-2>, ...);
+ - circle : Shape of gradient. Values are circle or ellipse, default is ellipse.
+ - : Keywords describing how big the ending shape must be. Values are closest-side, farthestside,
+closest-corner, farthest-corner
+ - : Sets the position of the gradient center, in the same way as background-position.
+*/
+.radial-gradient{
+    background: radial-gradient( rgb(0, 8, 255), rgb(255, 234, 0));
+}
+.radial-gradient-simple{
+    background: radial-gradient(circle, red, blue); 
+}
+.radial-gradient1{
+    background: radial-gradient(circle farthest-corner at top left, rgb(111, 0, 255), rgb(0, 255, 8));
+}
+.repeating-linear-gradient{
+    background: repeating-linear-gradient(-45deg, yellow, yellow 10%, black 10%, black 20% );
+}
+.repeating-radial-gradient{
+    background: repeating-radial-gradient(red, red 10%, white 10%, white 20%);
 }
