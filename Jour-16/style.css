@@ -95,3 +95,13 @@ schema (apostrophes can be omitted), separate multiples by comma
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+/* 
+🌐Background Shorthand
+The background shorthand property is used to set the background color, image, and other background properties
+in a single declaration.
+Syntax:
+background: [<background-image>] [<background-color>] [<background-position>]/[<background-size>]
+[<background-repeat>] [<background-origin>] [<background-clip>] [<background-attachment>]
+[<initial|inherit>];
+*/
