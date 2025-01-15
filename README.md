@@ -20,6 +20,8 @@ Pendant 30 jours, j'explore et approfondir les concepts de CSS en réalisant des
 | 13  | Mini projet (Mise en page avec Flexbox) |[Voir sur YouTube](https://youtube.com/shorts/pB7StFYDjWk?si=B90sbLbzt5zfxaBC)| [Voir le Tweet](https://x.com/dereal_ismael/status/1878279213309911122)   |
 | 14  | Mini projet (Mise en page avec les Grilles CSS ) |[Voir sur YouTube](https://youtube.com/shorts/MNwtM6NI2mE?si=J2GXTBwJNB3twBZ1)| [Voir le Tweet](https://x.com/dereal_ismael/status/1878645072402768076)   |
 | 15  |  Typographie  |[Voir sur YouTube](https://youtube.com/shorts/MJRa9MfRKSc?si=8qTJkEs-ToX9ziyE)| [Voir le Tweet](https://x.com/dereal_ismael/status/1878830567430730024)    |
+| 16  |  Arrière-plans  |[Voir sur YouTube](https://youtube.com/shorts/0Myu0ojJ0FA?si=Nsj6iahURD_GvwRS)| [Voir le Tweet](https://x.com/dereal_ismael/status/1879215935598547191)    |
+| 17  |  Transitions en CSS  |[Voir sur YouTube](https://youtube.com/shorts/W9tKdOO4SLY?si=Z8q4dsQsViMTDKVh)| [Voir le Tweet](https://x.com/dereal_ismael/status/1879552319790182450)    |
 ---
 
 ## 💡 Pourquoi le CSS ?  
