@@ -1,0 +1,13 @@
+.test{
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    transition-property: height, width;
+    transition-duration: 1s, 500ms;
+    transition-timing-function: linear;
+    transition-delay: 0s, 1s;
+}
+.test:hover{
+    height: 200px;
+    width: 200px;
+}
