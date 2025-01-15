@@ -11,3 +11,16 @@
     height: 200px;
     width: 200px;
 }
+.test2{
+    width: 200px;
+    height: 200px;
+    background-color:  rgb(255, 225, 0);
+    /* transition-property: width;
+    transition-duration: 1s;
+    transition-timing-function: ease;
+    transition-delay: 0s; */
+   transition: width 1s ease 0s; 
+}
+.test2:hover{
+    width: 400px;
+}
