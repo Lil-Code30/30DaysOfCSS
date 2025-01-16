@@ -127,3 +127,13 @@
 .transform:hover{
     transform: rotate(30deg);
 }
+.multi-transform{
+    width: 200px;
+    height: 100px;
+    background-color: black;
+    border: 2px solid red;
+    transition: all 1000ms ease-in-out;
+}
+.multi-transform:hover{
+    transform: rotate(15deg) translateX(200px);
+}
