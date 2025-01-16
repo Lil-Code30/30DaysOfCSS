@@ -1,0 +1,17 @@
+.rotate{
+    width: 100px;
+    height: 100px;
+    background-color: teal;
+    margin: 5px 25px;
+    transition-property: all 0.5ms linear;
+}
+.rotate1{
+    transform: rotate(45deg);
+}
+.rotate2{
+    transform: rotate(20deg);
+}
+.rotate3:hover{
+    transform: rotate(30deg);
+    transform-origin: 100% 50%;
+}
