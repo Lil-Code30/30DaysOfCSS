@@ -108,3 +108,22 @@
 .translate4:hover{
     transform: translateY(-100px);
 }
+
+/* The default value for the transform-origin property is 50% 50% which is the center of the element. */
+.transform{
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    background-color: chocolate;
+    margin: 10px 20px;
+    transition: transform 1s;
+}
+.origin1{
+    transform-origin: 0 0;
+}
+.origin2{
+    transform-origin: 100% 0;
+}
+.transform:hover{
+    transform: rotate(30deg);
+}
