@@ -24,6 +24,7 @@ Pendant 30 jours, j'explore et approfondir les concepts de CSS en réalisant des
 | 17  |  Transitions en CSS  |[Voir sur YouTube](https://youtube.com/shorts/W9tKdOO4SLY?si=Z8q4dsQsViMTDKVh)| [Voir le Tweet](https://x.com/dereal_ismael/status/1879552319790182450)    |
 | 18  |  Transformations CSS  |[Voir sur YouTube](https://youtube.com/shorts/3oZTRCtQ9J0?si=CiuNny6O5x6lLtVE)| [Voir le Tweet](https://x.com/dereal_ismael/status/1879917145288790486)    |
 | 19  |  Animations CSS  |[Voir sur YouTube](https://youtube.com/shorts/CVUjmhwtmWs?si=q7kTk6_5ANCvpacF)| [Voir le Tweet](https://x.com/dereal_ismael/status/1880304005592805787)    |
+| 20  |  Mini projet (Page accueil d'un portfolio)  |[Voir sur YouTube](https://youtube.com/shorts/SywyS73GqF4?si=_w6KHYEJLm48SRdv)| [Voir le Tweet](https://x.com/dereal_ismael/status/1880672506866278720)    |
 ---
 
 ## 💡 Pourquoi le CSS ?  
