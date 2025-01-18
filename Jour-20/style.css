@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Header styling  */
+header{
+    padding: 0.5rem 1.5rem ;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header .logo-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header .logo-box .logo-text{
+    font-size: 1.5rem;
+    color: white;
+}
