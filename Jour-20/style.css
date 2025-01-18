@@ -66,3 +66,30 @@ header .contact-btn-box .contact-btn:hover{
     transform: scale(1.1);
     cursor: pointer;
 }
+/* main styling */
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: radial-gradient( at bottom, rgb(254, 254, 254),rgb(188, 204, 235), rgb(31, 100, 240), rgb(0, 34, 255), rgb(0, 1, 5));
+}
+main h1{
+    text-align: center;
+    color: white;
+    font-family: "Libre Caslon Text", serif;
+    font-size: 5rem;
+    text-shadow: 2px 2px 2px rgb(35, 35, 35);
+}
+.main-name{
+    font-family: "Great Vibes", cursive;
+    letter-spacing: 3px;
+    color: rgb(255, 255, 255);
+    text-shadow: 5px 2px rgb(0, 0, 0);
+    
+}
+.main-img-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
