@@ -48,3 +48,21 @@ header nav .nav-ul .active{
     color: rgb(6, 84, 240);
     border-bottom: 3px solid rgb(6, 84, 240);
 }
+
+header .contact-btn-box .contact-btn{
+    padding: 0.5rem 1rem;
+    outline: none;
+    font-size: 1.2rem;
+    font-weight: bold;
+    font-family: "Chakra Petch", sans-serif;
+    border-radius: 30px;
+    border: none;
+    background-image: linear-gradient(to bottom right, rgb(31, 100, 240),rgb(23, 88, 216), rgb(0, 34, 255));
+    transition: all 0.5s ease;
+}
+header .contact-btn-box .contact-btn:hover{
+    box-shadow: 40px 0 100px rgb(31, 100, 240), -40px 0 100px rgb(52, 26, 226);
+    color: white;
+    transform: scale(1.1);
+    cursor: pointer;
+}
