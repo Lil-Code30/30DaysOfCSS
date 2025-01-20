@@ -73,3 +73,9 @@
         transform: translateY(-50px);
     }
 }
+.anime-images img:hover{
+    transform: scale(1.5);
+    box-shadow: 5px 5px 10px rgb(0, 0, 0), -5px -5px 10px rgb(0, 0, 0) ;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+}
