@@ -26,6 +26,8 @@ Pendant 30 jours, j'explore et approfondir les concepts de CSS en réalisant des
 | 19  |  Animations CSS  |[Voir sur YouTube](https://youtube.com/shorts/CVUjmhwtmWs?si=q7kTk6_5ANCvpacF)| [Voir le Tweet](https://x.com/dereal_ismael/status/1880304005592805787)    |
 | 20  |  Mini projet (Page accueil d'un portfolio)  |[Voir sur YouTube](https://youtube.com/shorts/SywyS73GqF4?si=_w6KHYEJLm48SRdv)| [Voir le Tweet](https://x.com/dereal_ismael/status/1880672506866278720)    |
 | 21  |  Mini projet (Page accueil animé)  |[Voir sur YouTube](https://youtube.com/shorts/HpQnAUZ9YPI?si=eMrkh1EBnrfTHp4m)| [Voir le Tweet](https://x.com/dereal_ismael/status/1881146143889133919)    |
+| Jour 22 - 30 Je Pratique sur le site [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)   |
+| Dépot de tous les pratiques :  [Responsive-web-design](https://github.com/Lil-Code30/Responsive-Web-Design)  |
 | 22  |  J’apprends les bases du CSS en créant un Menu de Café  |[Voir sur YouTube](https://youtu.be/jgtOo87Tft8?si=GdL3OBONzTZIadKQ)| [Voir le Tweet](https://x.com/dereal_ismael/status/1881385884727333347)    |
 | 23  |  J'apprends les Couleurs en CSS en créant un ensemble de Marqueurs Colorés  |[Voir sur YouTube]()| [Voir le Tweet](https://x.com/dereal_ismael/status/1881734015931281763)    |
 ---
