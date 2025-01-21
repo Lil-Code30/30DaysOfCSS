@@ -32,7 +32,7 @@ Pendant 30 jours, j'explore et approfondir les concepts de CSS en réalisant des
 | Jour | Projet | Vidéo YouTube | Tweet | Code |
 |------|--------------|---------------|-------|-------|
 | 22  |  J’apprends les bases du CSS en créant un Menu de Café  |[Voir sur YouTube](https://youtu.be/jgtOo87Tft8?si=GdL3OBONzTZIadKQ)| [Voir le Tweet](https://x.com/dereal_ismael/status/1881385884727333347)    | [Voir le code](https://github.com/Lil-Code30/Responsive-Web-Design/tree/main/J'apprends%20les%20Couleurs%20en%20CSS%20en%20cr%C3%A9ant%20un%20ensemble%20de%20Marqueurs%20Color%C3%A9s) |
-| 23  |  J'apprends les Couleurs en CSS en créant un ensemble de Marqueurs Colorés  |[Voir sur YouTube]()| [Voir le Tweet](https://x.com/dereal_ismael/status/1881734015931281763)    | [Voir le code](https://github.com/Lil-Code30/Responsive-Web-Design/tree/main/J%E2%80%99apprends%20les%20bases%20du%20CSS%20en%20cr%C3%A9ant%20un%20Menu%20de%20Caf%C3%A9) |
+| 23  |  J'apprends les Couleurs en CSS en créant un ensemble de Marqueurs Colorés  |[Voir sur YouTube](https://youtu.be/gJT9VX9ghBQ?si=qucsE_mEVk0y4peI)| [Voir le Tweet](https://x.com/dereal_ismael/status/1881734015931281763)    | [Voir le code](https://github.com/Lil-Code30/Responsive-Web-Design/tree/main/J%E2%80%99apprends%20les%20bases%20du%20CSS%20en%20cr%C3%A9ant%20un%20Menu%20de%20Caf%C3%A9) |
 ---
 
 ## 💡 Pourquoi le CSS ?  
