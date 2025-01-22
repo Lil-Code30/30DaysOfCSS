@@ -1,5 +1,6 @@
 # 30 Jours de CSS 🚀 
-Pendant 30 jours, j'explore et approfondir les concepts de CSS en réalisant des mini-projets et en partageant mes progrès au quotidien.  
+Pendant 30 jours, j'explore et approfondir les concepts de CSS en réalisant des mini-projets et en partageant mes progrès au quotidien. 
+De jour 22 - 30, je pratique sur le site 🌐[freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
 ---
 ## 📅 Calendrier du Défi 
