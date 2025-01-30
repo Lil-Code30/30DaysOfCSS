@@ -40,7 +40,7 @@ De jour 22 - 30, je pratique sur le site 🌐[freeCodeCamp](https://www.freecode
 | 27  |  J'apprends la Typographie en créant une Étiquette Nutritionnelle |[Voir sur YouTube](https://youtu.be/mvzAkIH2O4Q?si=0pABryVgqrycgnU0)| [Voir le Tweet](https://x.com/dereal_ismael/status/1883096284229427374)    | [Voir le code](https://github.com/Lil-Code30/Responsive-Web-Design/tree/main/J'apprends%20la%20Typographie%20en%20cr%C3%A9ant%20une%20%C3%89tiquette%20Nutritionnelle) |
 | 28  |  J'apprends l'Accessibilité en créant un Quiz  |[Voir sur YouTube](https://youtu.be/u3CzkQnOVUE?si=pb2aLFZg8EJPc1NA)| [Voir le Tweet](https://x.com/dereal_ismael/status/1883452924367700326)    | [Voir le code](https://github.com/Lil-Code30/Responsive-Web-Design/tree/main/J'apprends%20l'Accessibilit%C3%A9%20en%20cr%C3%A9ant%20un%20Quiz) |
 | 29  |  J'apprends les Pseudo-sélecteurs CSS en créant un Bilan Comptable |[Voir sur YouTube](https://youtu.be/gTcNzc8iYkE)| [Voir le Tweet](https://x.com/dereal_ismael/status/1883884950136779124)    | [Voir le code](https://github.com/Lil-Code30/Responsive-Web-Design/tree/main/J'apprends%20les%20Pseudo-s%C3%A9lecteurs%20CSS%20en%20cr%C3%A9ant%20un%20Bilan%20Comptable) |
-| 30  |  J'apprends le CSS intermédiaire en créant une Peinture de Chat  |[Voir sur YouTube](https://youtu.be/bRtQpdzvoz0)| [Voir le Tweet]()    | [Voir le code](https://github.com/Lil-Code30/Responsive-Web-Design/tree/main/J'apprends%20le%20CSS%20interm%C3%A9diaire%20en%20cr%C3%A9ant%20une%20Peinture%20de%20Chat) |
+| 30  |  J'apprends le CSS intermédiaire en créant une Peinture de Chat  |[Voir sur YouTube](https://youtu.be/bRtQpdzvoz0)| [Voir le Tweet](https://x.com/dereal_ismael/status/1884262658918211880)    | [Voir le code](https://github.com/Lil-Code30/Responsive-Web-Design/tree/main/J'apprends%20le%20CSS%20interm%C3%A9diaire%20en%20cr%C3%A9ant%20une%20Peinture%20de%20Chat) |
 ---
 
 ## 💡 Pourquoi le CSS ?  
@@ -55,6 +55,6 @@ CSS est essentiel pour le design web. Ce défi est l’occasion pour moi de maî
 - Ressources : [MDN Web Docs](https://developer.mozilla.org/fr/), [CSS Tricks](https://css-tricks.com/)
 - PDF : [CSSForProfessionals](https://www.goalkicker.com/CSSBook/CSSNotesForProfessionals.pdf)
 - freeCodeCamp : [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
-- projet : [Responsive-web-design](https://github.com/Lil-Code30/Responsive-Web-Design) 
+- Projet : [Responsive-web-design](https://github.com/Lil-Code30/Responsive-Web-Design) 
 
 ---
